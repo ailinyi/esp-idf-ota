@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/CMakeFiles/mconf-idf
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/CMakeFiles/mconf-idf.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/CMakeFiles/mconf-idf-complete.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/coldj/Desktop/4.0/esp-idf-4.0/examples/get-started/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
